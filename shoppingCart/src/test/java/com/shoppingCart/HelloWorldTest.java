@@ -30,7 +30,7 @@ public class HelloWorldTest {
     @Test
     public void testWelcome() {
 
-     String expected="Welcome to Spring Boot Tutorials";
+     String expected="Welcome to Spring Boot Tutorials added for dev";
      String actual=helloWorld.welcome();
      assertEquals(expected,actual);
 
