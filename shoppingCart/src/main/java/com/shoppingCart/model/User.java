@@ -1,9 +1,24 @@
 package com.shoppingCart.model;
 
+import javax.persistence.*;
 
+@Entity
+@Table(name="user")
 public class User {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int userId;
     private String userName;
     private String password;
+
+    public int getUserId() {
+        return userId;
+    }
+
+    public void setUserId(int userId) {
+        this.userId = userId;
+    }
+
     private String firstName;
     private String lastName;
     private String email;
