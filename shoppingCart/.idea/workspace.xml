@@ -5,11 +5,11 @@
       <change afterPath="$PROJECT_DIR$/../productService/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../productService/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../productService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productService/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../productService/productService.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/HelloWorld.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/TestSpringBoot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/config/DbConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/serviceImpl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" selection-end-column="40" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -289,7 +289,7 @@
       <workItem from="1558544820336" duration="365000" />
       <workItem from="1559010172508" duration="1797000" />
       <workItem from="1559055117236" duration="1285000" />
-      <workItem from="1559847058963" duration="12730000" />
+      <workItem from="1559847058963" duration="13015000" />
     </task>
     <task id="LOCAL-00001" summary="git settings added">
       <created>1558544989807</created>
@@ -383,7 +383,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35498000" />
+    <option name="totallyTimeSpent" value="35783000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -396,7 +396,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49773756" visible="true" weight="0.20972644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -693,8 +692,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
