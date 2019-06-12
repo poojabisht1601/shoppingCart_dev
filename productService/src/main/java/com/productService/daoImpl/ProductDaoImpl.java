@@ -26,4 +26,23 @@ public class ProductDaoImpl implements ProductDao {
         Product product=(Product) getSession().get(Product.class,productId);
         return  product;
     }
+
+    @Override
+    public void addProduct(Product product) {
+     getSession().save(product);
+    }
+
+    @Override
+    public void delete(int prodId) {
+        Product product=getProductById(prodId);
+        getSession().delete(product);
+    }
+
+    @Override
+    public Product updateProduct(Product product, int id) {
+        Product prod=(Product) getSession().get(Product.class,id);
+        prod.setDescription(product.getDescription());
+        getSession().update(prod);
+        return prod;
+    }
 }
