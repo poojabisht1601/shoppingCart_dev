@@ -26,7 +26,7 @@ UserService userService;
     }
 }
 @PostMapping(value = "/create",headers = "Accept=application/json")
-public ResponseEntity<Void> createUser(User user){
+public ResponseEntity<Void> createUser(@RequestBody User user){
     userService.createUser(user);
     return new ResponseEntity<Void>(HttpStatus.CREATED);
 }

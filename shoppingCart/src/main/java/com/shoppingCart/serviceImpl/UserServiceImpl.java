@@ -1,6 +1,7 @@
 package com.shoppingCart.serviceImpl;
 
 import com.shoppingCart.dao.UserDao;
+import com.shoppingCart.model.Login;
 import com.shoppingCart.model.User;
 import com.shoppingCart.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,6 +28,11 @@ public class UserServiceImpl implements UserService {
     }
     public  User update(User user,int id){
         return  userDao.update(user,id);
+    }
+
+    public boolean validateUser(Login login) {
+
+        return userDao.findUser(login);
     }
 
 }

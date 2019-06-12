@@ -8,8 +8,7 @@ public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int userId;
-    private String userName;
-    private String password;
+
 
     public int getUserId() {
         return userId;
@@ -18,20 +17,8 @@ public class User {
     public void setUserId(int userId) {
         this.userId = userId;
     }
-
+    private String password;
     private String firstName;
-    private String lastName;
-    private String email;
-    private String address;
-    private String phone;
-
-    public String getUserName() {
-        return userName;
-    }
-
-    public void setUserName(String userName) {
-        this.userName = userName;
-    }
 
     public String getPassword() {
         return password;
@@ -40,6 +27,15 @@ public class User {
     public void setPassword(String password) {
         this.password = password;
     }
+
+    private String lastName;
+    private String email;
+    private String address;
+    private String phone;
+
+
+
+
 
     public String getFirstName() {
         return firstName;
