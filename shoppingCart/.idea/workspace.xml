@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a152f29a-4fd9-499f-acb4-87d7c0d29600" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../productService/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../productService/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../productService/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../productService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../productService/productService.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/TestSpringBoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/config/DbConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../productService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productService/src/main/java/com/productService/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productService/src/main/java/com/productService/TestSpringBoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/TestSpringBoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productService/src/main/java/com/productService/config/DbConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/config/DbConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -136,6 +133,37 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,7 +317,7 @@
       <workItem from="1558544820336" duration="365000" />
       <workItem from="1559010172508" duration="1797000" />
       <workItem from="1559055117236" duration="1285000" />
-      <workItem from="1559847058963" duration="13015000" />
+      <workItem from="1559847058963" duration="13543000" />
     </task>
     <task id="LOCAL-00001" summary="git settings added">
       <created>1558544989807</created>
@@ -347,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560372896769</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="merged from dev">
+      <created>1560374226502</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560374226502</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -383,7 +418,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35783000" />
+    <option name="totallyTimeSpent" value="36311000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
