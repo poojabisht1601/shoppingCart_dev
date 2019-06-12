@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a152f29a-4fd9-499f-acb4-87d7c0d29600" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../productService/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productService/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productService/productService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/TestSpringBoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/config/DbConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productService/src/main/java/com/productService/serviceImpl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shoppingCart/TestSpringBoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shoppingCart/TestSpringBoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shoppingCart/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shoppingCart/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shoppingCart/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shoppingCart/controller/RegistrationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shoppingCart/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shoppingCart/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shoppingCart/daoImpl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shoppingCart/daoImpl/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shoppingCart/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shoppingCart/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shoppingCart/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shoppingCart/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shoppingCart/serviceImpl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shoppingCart/serviceImpl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shoppingCart/TestSpringBoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shoppingCart/TestSpringBoot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/shoppingCart/HelloWorldTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/shoppingCart/HelloWorldTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,14 +28,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingCart/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            <state relative-caret-position="374">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -72,7 +77,6 @@
         <option value="$PROJECT_DIR$/src/main/com/shoppingCart/TestSpringBoot.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shoppingCart/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shoppingCart/model/Login.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/shoppingCart/config/DbConfiguration.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/shoppingCart/HelloWorldTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shoppingCart/TestSpringBoot.java" />
@@ -84,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/shoppingCart/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/shoppingCart/daoImpl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -131,90 +136,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="daoImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shoppingCart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,7 +289,7 @@
       <workItem from="1558544820336" duration="365000" />
       <workItem from="1559010172508" duration="1797000" />
       <workItem from="1559055117236" duration="1285000" />
-      <workItem from="1559847058963" duration="11772000" />
+      <workItem from="1559847058963" duration="12730000" />
     </task>
     <task id="LOCAL-00001" summary="git settings added">
       <created>1558544989807</created>
@@ -419,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559162537121</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="merged from dev">
+      <created>1560372896769</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560372896769</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -455,7 +383,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34540000" />
+    <option name="totallyTimeSpent" value="35498000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -470,7 +398,7 @@
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49773756" visible="true" weight="0.20972644" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49773756" visible="true" weight="0.20972644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -487,7 +415,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.29146537" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.29146537" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.46859902" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32850242" />
@@ -561,13 +489,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/onlineStore/seller/dao/ProductDetailDao.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="46" column="54" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/shoppingCart/HelloWorldTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -762,11 +683,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shoppingCart/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="40" />
         </state>
       </provider>
     </entry>
